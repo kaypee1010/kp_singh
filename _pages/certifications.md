@@ -9,14 +9,11 @@ author_profile: true
 
 - **AWS Certified Cloud Practitioner**  
   Amazon Web Services, 2021  
-  [Certificate](../files/certifications/AWS Certified Cloud Practitioner certificate.pdf)
-
-- **Google Data Analytics Professional Certificate**  
-  Coursera / Google
+  [View Certificate](../files/certifications/aws-certified-cloud-practitioner.pdf)
 
 - **Splunk Fundamentals Certification**  
-  Splunk  
-  [Certificate](../files/certifications/SPLUNK_Fundamental_Certificate.pdf)
+  Splunk Inc.  
+  [View Certificate](../files/certifications/SPLUNK_Fundamental_Certificate.pdf)
 
 ---
 
@@ -24,37 +21,36 @@ author_profile: true
 
 - **Tableau 2020 A-Z: Hands-On Tableau Training for Data Science**  
   Udemy, 2021  
-  [Certificate](../files/certifications/TABLEAU 2021.jpeg)
+  [View Certificate](../files/certifications/tableau-2021.jpeg)
 
-- **SQL (Intermediate)** — HackerRank  
-  [Certificate](../files/certifications/LinkedIn SQL.pdf) 
-  
+- **SQL (Intermediate)** — LinkedIn Learning  
+  [View Certificate](../files/certifications/LinkedIn SQL.pdf)
+
 - **Excel for Data Analytics** — LinkedIn Learning  
-  [Certificate](../files/certifications/LinkedIn Excel.pdf)
-  
+  [View Certificate](../files/certifications/LinkedIn Excel.pdf)
+
 - **Ultimate AWS Certified Cloud Practitioner Course**  
   Udemy, 2021  
-  [Certificate](../files/certifications/AWS_2021.pdf)
+  [View Certificate](../files/certifications/aws-udemy-2021.pdf)
 
 ---
 
-## 🎓 Faculty Development Programs (FDP) & Academic Training
+## 🎓 Faculty Development Programs (FDP)
 
 - **NPTEL-AICTE Faculty Development Programme**  
-  Joy of Computing Using Python — IIT Madras (2019)  
+  *Joy of Computing Using Python* — IIT Madras (2019)  
   Score: 98% (Elite + Top 1%)  
-  [Certificate](../files/certifications/JOC FDP Certificate.jpg)
+  [View Certificate](../files/certifications/nptel-joc-fdp-2019.jpg)
 
 - **Faculty Development Programme**  
-  Digital Image Processing using MATLAB — ISTE / PTU (2014)  
-  [Certificate](../files/certifications/21. FDP.jpg)
+  *Digital Image Processing using MATLAB* — ISTE / PTU (2014)  
+  [View Certificate](../files/certifications/fdp-2014.jpg)
 
 ---
 
-## 🧑‍🏫 Teaching & Academic Practice Qualification
+## 🧑‍🏫 Teaching Qualification
 
 - **Post Graduate Certificate in Academic Practice (PGCAP)**  
-  University of Petroleum & Energy Studies (UPES), India — 2019
-  Formal higher-education teaching qualification focused on pedagogy, curriculum design, and academic leadership. 
+  University of Petroleum & Energy Studies (UPES), 2019  
   *(Detailed under Education section)*  
-  [Certificate](../files/certifications/PGCAP 1.jpeg)
+  [View Certificate](../files/certifications/pgcap-2019.jpeg)
