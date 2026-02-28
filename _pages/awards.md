@@ -20,24 +20,25 @@ author_profile: true
 ## International Recognition
 
 - Selected by Government of India for fully sponsored international training under  
-  **Asian Productivity Organization (APO), Taiwan** — Cyber-Physical Systems.
+  **Asian Productivity Organization (APO), Taiwan** — Cyber-Physical Systems
 
 - Letter of Appreciation — Melbourne Data Analytics Platform (Australia), 2021  
-  for outstanding research performance.
+  [View Certificate](../files/awards/Appreciation_Letter-Kamalpreet Singh_UOM.pdf)
 
 ---
 
 ## Invited Talks & Industry Engagement
 
 - Invited Expert Lecture — “AI Tools for Engineers in the Manufacturing Set-up”  
-  V-Guard Industries Ltd., February 2026.
+  V-Guard Industries Ltd., February 2026  
+  [Certificate](../files/awards/V-Guard.jpeg)
 
 - Invited Technical Talk — “Why AI is No Longer Optional in Energy Engineering”  
-  Institution of Engineers (India), December 2025.
+  Institution of Engineers (India), December 2025  
+  [Certificate](../files/awards/Er Kamalpreet Singh- IOE Appreciation Letter.pdf)
 
 ---
 
 ## Innovation & Competitions
 
-- Honorable Mention — GovHack Australia 2020  
-  for development of open-data predictive analytics system.
+- Honorable Mention — GovHack Australia 2020
