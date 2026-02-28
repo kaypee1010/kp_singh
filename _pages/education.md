@@ -5,49 +5,76 @@ permalink: /education/
 author_profile: true
 ---
 
-## Master of Information Technology (Artificial Intelligence)
+## 🎓 Master of Information Technology (Artificial Intelligence)
 
 **The University of Melbourne, Australia**  
 Completed: December 2021  
-Weighted Average Mark: 74 (GPA: 7.4/10)
 
-Specialization included:
+Weighted Average Mark: **74.0 / 100** (GPA: 7.4 / 10)
+
+Specialization focused on Artificial Intelligence and Data Science with advanced coursework in:
 
 - Natural Language Processing
 - Deep Learning
 - Computer Vision
-- Data Ethics
+- Machine Learning
+- Data Ethics and Responsible AI
+
+This international program emphasized research-driven problem solving and industry-oriented AI applications.
 
 ---
 
-## Master of Engineering (Computer Science & Engineering – Information Security)
+## 🎓 Master of Engineering (Computer Science & Engineering — Information Security)
 
-**PEC University of Engineering and Technology, Chandigarh**  
+**PEC University of Engineering & Technology, Chandigarh, India**  
 Awarded: October 2013  
-CGPA: 8.25/10
 
-Focus Areas:
+CGPA: **8.25 / 10**
+
+Research-intensive postgraduate program with focus on:
 
 - Cryptography
+- Network Security
 - Cyber Law
-- Secure Systems
+- Secure Systems Architecture
 
 ---
 
-## Bachelor of Technology (Computer Science & Engineering)
+## 🎓 Post Graduate Certificate in Academic Practice (PGCAP)
 
-**Guru Nanak Dev Engineering College, Ludhiana / PTU**  
+**University of Petroleum & Energy Studies (UPES), Dehradun, India**  
+Completed: 2019  
+
+GPA: **7.93 / 10**
+
+Formal higher-education teaching qualification covering:
+
+- Pedagogical design
+- Curriculum development
+- Outcome-based education
+- Assessment strategies
+- Academic leadership
+
+[Certificate](../files/certifications/pgcap-2019.jpeg)
+
+---
+
+## 🎓 Bachelor of Technology (Computer Science & Engineering)
+
+**Guru Nanak Dev Engineering College (GNDEC), Ludhiana**  
+Punjab Technical University  
+
 Completed: May 2011  
-GPA: 8.33/10 — First Division with Distinction
+
+GPA: **8.33 / 10**  
+First Division with Distinction
 
 ---
 
-## Senior Secondary (CBSE)
+## School Education
 
-St. Soldier International Convent School, Mohali — 2007
+**Senior Secondary (CBSE)**  
+St. Soldier International Convent School, Mohali — 2007  
 
----
-
-## Secondary (CISCE)
-
-St. Thomas School, Jagadhri — 2005
+**Secondary Education (CISCE)**  
+St. Thomas School, Jagadhri — 2005  
