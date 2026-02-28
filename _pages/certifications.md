@@ -7,14 +7,6 @@ author_profile: true
 
 ## ☁️ Professional Certifications
 
-- **Microsoft Certified — Azure Data Fundamentals (DP-900)**  
-  Microsoft, 2021  
-  [Certificate](../files/certifications/AWS_2021.pdf)
-
-- **Microsoft Certified — Azure AI Fundamentals (AI-900)**  
-  Microsoft, 2021  
-  [Certificate](../files/certifications/AWS_2021.pdf)
-
 - **AWS Certified Cloud Practitioner**  
   Amazon Web Services, 2021  
   [Certificate](../files/certifications/AWS Certified Cloud Practitioner certificate.pdf)
@@ -39,6 +31,10 @@ author_profile: true
   
 - **Excel for Data Analytics** — LinkedIn Learning  
   [Certificate](../files/certifications/LinkedIn Excel.pdf)
+  
+- **Ultimate AWS Certified Cloud Practitioner Course**  
+  Udemy, 2021  
+  [Certificate](../files/certifications/AWS_2021.pdf)
 
 ---
 
@@ -58,5 +54,7 @@ author_profile: true
 ## 🧑‍🏫 Teaching & Academic Practice Qualification
 
 - **Post Graduate Certificate in Academic Practice (PGCAP)**  
-  University of Petroleum & Energy Studies (UPES), India — 2019  
+  University of Petroleum & Energy Studies (UPES), India — 2019
+  Formal higher-education teaching qualification focused on pedagogy, curriculum design, and academic leadership. 
+  *(Detailed under Education section)*  
   [Certificate](../files/certifications/PGCAP 1.jpeg)
