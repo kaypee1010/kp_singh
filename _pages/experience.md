@@ -1,10 +1,9 @@
 ---
-
 layout: single
 title: "Professional Experience"
 permalink: /experience/
 author_profile: true
---------------------
+---
 
 ## 🏫 Academic Experience
 
