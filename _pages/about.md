@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: splash
 author_profile: true
-title: "Kamal Preet Singh"
 permalink: /
 ---
 
