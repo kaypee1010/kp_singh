@@ -1,4 +1,7 @@
+# ================================
 # Basic Site Settings
+# ================================
+
 locale                   : "en-US"
 site_theme               : "default"
 
@@ -8,7 +11,8 @@ name                     : &name "Kamal Preet Singh"
 position                 : "Assistant Professor"
 affiliation              : "Swami Rama Himalayan University, Dehradun, India"
 email                    : "kamalpreet1010@gmail.com"
-baseurl                  : ""
+
+baseurl                  : ""   # IMPORTANT for username.github.io repo
 
 description              : &description "Assistant Professor specializing in Artificial Intelligence, Machine Learning, Data Analytics, and Cybersecurity with academic and industry experience across India and Australia."
 
@@ -16,7 +20,11 @@ url                      : "https://kaypee1010.github.io"
 repository               : "kaypee1010/kaypee1010.github.io"
 
 
+
+# ================================
 # Author Profile Sidebar
+# ================================
+
 author:
 
   avatar           : "/images/profile.jpg"
@@ -30,7 +38,7 @@ author:
 
   # Academic Profiles
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "0000-0001-7949-0767"     # Add later if available
+  orcid            : "0000-0001-7949-0767"
   researchgate     : ""
   scopus           : ""
 
@@ -42,13 +50,10 @@ author:
 
 
   # Social Media
-  linkedin         : "https://www.linkedin.com/in/kaypee-singh/"   # Add LinkedIn later
+  linkedin         : "https://www.linkedin.com/in/kaypee-singh/"
   twitter          :
   youtube          :
 
 
 
-  include:
-  - .htaccess
-  - _pages
-  - files
+#
