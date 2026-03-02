@@ -13,7 +13,6 @@ baseurl                  : "/kp_singh"
 description              : &description "Assistant Professor specializing in Artificial Intelligence, Machine Learning, Data Analytics, and Cybersecurity with academic and industry experience across India and Australia."
 
 url                      : "https://kaypee1010.github.io"
-baseurl                  : ""
 repository               : "kaypee1010/kaypee1010.github.io"
 
 
@@ -46,3 +45,10 @@ author:
   linkedin         : "https://www.linkedin.com/in/kaypee-singh/"   # Add LinkedIn later
   twitter          :
   youtube          :
+
+
+
+  include:
+  - .htaccess
+  - _pages
+  - files
